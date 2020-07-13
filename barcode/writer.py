@@ -91,8 +91,8 @@ class BaseWriter(object):
         self.quiet_zone = 6.5
         self.background = 'white'
         self.foreground = 'black'
-        self.text = ''
-        self.human = ''  # human readable text
+        self.text = 'TXT'
+        self.human = 'HRT'  # human readable text
         self.text_distance = 5
         self.text_line_distance = 1
         self.center_text = True
