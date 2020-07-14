@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 setup(
     name='python-barcode',
     packages=find_packages(),
-    url="https://github.com/WhyNotHugo/python-barcode",
+    url="https://github.com/goflynn-123/python-barcode",
     license='MIT',
     author='Hugo Osvaldo Barrera et al',
     author_email='hugo@barrera.io',
